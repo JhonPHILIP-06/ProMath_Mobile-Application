@@ -6,8 +6,8 @@ Project Setup:
 
 <ul>
 <li> The instructions for setting up this App are in the User Manual below. </li>
-<li> <a href="https://drive.google.com/file/d/15EhnkMydjxHmltab-zwdYuVEqczaJ0Mf/view" target="_blank" rel="noreferrer noopener">User Manual</a>
+<li> <a href="https://drive.google.com/file/d/15EhnkMydjxHmltab-zwdYuVEqczaJ0Mf/view" target="_blank" rel="noreferrer noopener">User Manual</a> <li>
 <li> The video tutorial on how to use this App is in the link below. </li>
-<li> <a href="https://drive.google.com/file/d/127zUl4MoLp0wQZ-Wowgfkn8ZuY511V8z/view" target="_blank" rel="noreferrer noopener">Video Tutorial</a>
-<li> <a href="https://drive.google.com/file/d/1FdtA2JKEQTtka_StAN-7s9PRZiRIECo8/view" target="_blank" rel="noreferrer noopener">Video Tutorial (Part 2)</a>
+<li> <a href="https://drive.google.com/file/d/127zUl4MoLp0wQZ-Wowgfkn8ZuY511V8z/view" target="_blank" rel="noreferrer noopener">Video Tutorial</a> <li>
+<li> <a href="https://drive.google.com/file/d/1FdtA2JKEQTtka_StAN-7s9PRZiRIECo8/view" target="_blank" rel="noreferrer noopener">Video Tutorial (Part 2)</a> <li>
 </ul>
