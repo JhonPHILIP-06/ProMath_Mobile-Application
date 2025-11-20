@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Thesis</string>
+    <string name="promath_is_an_application_that_can_help_grade_school_students_in_solving_and_understanding_mathematical_word_problems_that_deals_with_simple_math_equations">ProMath is an application that can help grade school students in solving and understanding mathematical word problems that deals with simple math equations.</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="promath">ProMath</string>
+    <string name="start_converting">Start Converting</string>
+    <string name="answer">Answer</string>
+    <string name="type_the_problem">Type the problem...</string>
+</resources>
