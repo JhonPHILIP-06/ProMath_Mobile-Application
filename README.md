@@ -6,6 +6,6 @@ Setup:
 
 <ul>
 <li> The instructions for setting up the Application are in the User Manual. </li>
-<a href="https://www.facebook.com/jhonphilips06" target="_blank" rel="noreferrer noopener">Jhon Philip
-                Tercero</a>
+<li> <a href="https://www.facebook.com/jhonphilips06" target="_blank" rel="noreferrer noopener">Jhon Philip
+                Tercero</a> <li>
 </ul>
