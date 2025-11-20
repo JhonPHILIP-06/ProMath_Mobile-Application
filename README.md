@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://www.java.com/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" width="400" alt="Java Logo"></a></p>
 
-Setup:
+Project Setup:
 
 <ul>
 <li> The instructions for setting up this App are in the User Manual below. </li>
